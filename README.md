@@ -45,5 +45,5 @@ This data science project successfully predicts house prices for the real estate
 Acknowledgment
 I acknowledge the real estate company in Nigeria for providing the dataset and Pharm Chinelo Cynthia Ezenwafor for giving me access to the dataset and edikan for helping me with the data cleaning 
 
-Read more on my medium page;
+Read more on my medium page;https://medium.com/@nsisongsunday7778/real-estate-house-prices-prediction-in-nigeria-ba8cdc2b18f3
  
